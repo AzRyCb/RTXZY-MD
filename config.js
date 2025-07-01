@@ -1,27 +1,27 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/I5RpePh2b5u37OyFjzCNTr'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['6281313918102']  
+global.mods = ['6281313918102'] 
+global.prems = ['6281313918102']
+global.nameowner = 'Ariff'
+global.numberowner = '6281313918102' 
+global.mail = 'unitycentralofc@gmail.com' 
+global.gc = 'https://chat.whatsapp.com/CXuojM2YzMRKvKb5X6zomh?mode=ac_c'
+global.instagram = 'https://instagram.com/unity.central'
+global.wm = '© Neu-WaBot'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
+global.author = 's.id/unity_central'
 global.maxwarn = '5' // Peringatan maksimum Warn
 
 global.autobio = false // Set true/false untuk mengaktifkan atau mematikan autobio (default: false)
-global.antiporn = false // Set true/false untuk Auto delete pesan porno (bot harus admin) (default: false)
-global.spam = false // Set true/false untuk anti spam (default: false)
-global.gcspam = false // Set true/false untuk menutup grup ketika spam (default: false)
+global.antiporn = true // Set true/false untuk Auto delete pesan porno (bot harus admin) (default: false)
+global.spam = true // Set true/false untuk anti spam (default: false)
+global.gcspam = true // Set true/false untuk menutup grup ketika spam (default: false)
     
 
 // APIKEY INI WAJIB DI ISI! //
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'putxd' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 
