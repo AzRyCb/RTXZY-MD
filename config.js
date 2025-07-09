@@ -1,7 +1,7 @@
 global.owner = ['6281313918102']  
 global.mods = ['6281313918102'] 
 global.prems = ['6281313918102']
-global.nameowner = 'Ariff'
+global.nameowner = 'Ariff | Founder [ U.C ]'
 global.numberowner = '6281313918102' 
 global.mail = 'unitycentralofc@gmail.com' 
 global.gc = 'https://chat.whatsapp.com/CXuojM2YzMRKvKb5X6zomh?mode=ac_c'
@@ -14,7 +14,7 @@ global.packname = 'Made With'
 global.author = 's.id/unity_central'
 global.maxwarn = '5' // Peringatan maksimum Warn
 
-global.autobio = false // Set true/false untuk mengaktifkan atau mematikan autobio (default: false)
+global.autobio = true // Set true/false untuk mengaktifkan atau mematikan autobio (default: false)
 global.antiporn = true // Set true/false untuk Auto delete pesan porno (bot harus admin) (default: false)
 global.spam = true // Set true/false untuk anti spam (default: false)
 global.gcspam = true // Set true/false untuk menutup grup ketika spam (default: false)
